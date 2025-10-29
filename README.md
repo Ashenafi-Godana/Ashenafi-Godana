@@ -2,9 +2,8 @@
 **Software Engineer | Cloud Engineer | AI Enthusiast**
 
 ## About Me
-- AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, and Google Cloud Certified Professional Machine Learning Engineer.  
-- Experienced with cloud, backend engineering, and machine learning projects — always building, learning, and sharing.  
-- Passionate about leveraging **cloud computing & AI** to solve real-world problems.  
+- Experienced with backend engineering, cloud and machine learning.
+- Passionate about leveraging cutting-edge technologies to solve real-world problems. 
 
 ---
 
