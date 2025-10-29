@@ -19,11 +19,6 @@
 
 ---
 
-## 📊 Stats
-![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafiTech&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Links
 - [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
 - [**Portfolio Website**](ashenafigodana.com)  
