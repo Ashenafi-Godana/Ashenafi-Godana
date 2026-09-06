@@ -12,6 +12,7 @@
 
 ## 📝 Blogs
 - [How to Succeed in the AWS Cloud Clubs Application](https://medium.com/@ashenafiGodana/how-to-succeed-in-the-aws-cloud-clubs-application-3b932e86aeff) — Sharing my journey on how I succeeded in the AWS Cloud Clubs Application.  
+- [Building and Deploying a Solar Insights Dashboard with Streamlit](https://medium.com/@ashenafiGodana/building-and-deploying-a-solar-insights-dashboard-with-streamlit-b6afa176e6fa) — Turning a solar-radiation dataset into an interactive, deployed Streamlit dashboard.  
 - [Serverless Orchestration using AWS Step Functions](https://medium.com/@ashenafiGodana/serverless-orchestration-using-aws-step-functions-3a3843454a61) — AWS step function, and how it is used to orchestrate various workflows..  
 - [Deploying Highly Available Multi-Tier Applications](https://medium.com/@ashenafiGodana/deploying-highly-available-multi-tier-applications-9760d4bb8db5) —  architecting and deploying a multi-tier application on AWS while implementing high availability and fault tolerance measures.  
 - [Launch Amazon EC2(Elastic Compute Cloud)](https://medium.com/@ashenafiGodana/deploy-amazon-ec2-elastic-compute-cloud-d02cd049ac10) — A step by step Guide to launching Amazon EC2.
@@ -20,5 +21,5 @@
 
 ## 🔗 Links
 - [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
-- [**Portfolio Website**](ashenafigodana.com)  
+- [**Portfolio Website**](https://ashenafitech.github.io)  
 - [**Blog**](https://medium.com/@ashenafiGodana)
